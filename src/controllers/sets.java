@@ -6,9 +6,9 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class sets {
+public class Sets {
     
-    public sets(){
+    public Sets(){
 
     }
 
